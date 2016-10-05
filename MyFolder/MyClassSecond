@@ -1,0 +1,6 @@
+public class MyClassSecond {
+    public static Boolean is() {
+        MyClass myClass = new MyClass();
+        return !myClass.myMethod;
+    }
+}
